@@ -3,6 +3,11 @@ body {
     color: white;
 }
 
-/* #todo {
-    display: flex;
-} */
+.spacing {
+    margin: 10px 10px 10px 0px;
+    padding-bottom: 10px;
+}
+
+.inner-spacing {
+    padding-bottom: 10px;   
+}
